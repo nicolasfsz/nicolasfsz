@@ -1,110 +1,112 @@
 <div align="center">
 
-```
-███╗   ██╗██╗ ██████╗ ██████╗ ██╗      █████╗ ███████╗
-████╗  ██║██║██╔════╝██╔═══██╗██║     ██╔══██╗██╔════╝
-██╔██╗ ██║██║██║     ██║   ██║██║     ███████║███████╗
-██║╚██╗██║██║██║     ██║   ██║██║     ██╔══██║╚════██║
-██║ ╚████║██║╚██████╗╚██████╔╝███████╗██║  ██║███████║
-╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-```
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0,000000,1a1a1a,000000&height=220&section=header&text=NICOLAS&fontsize=75&fontColor=c0c0c0&animation=fadeIn&fontAlignY=45&desc=Necromante%20do%20C%C3%B3digo%20%E2%80%A2%20Invocador%20de%20Sistemas%20%E2%80%A2%20Arquiteto%20das%20Trevas&descAlignY=65&descAlign=50&descColor=888888)](https://github.com/nicolasfsz)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+things+that+matter+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas@email.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&weight=700&size=26&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=%E2%98%A0%EF%B8%8F+Bem-vindo+ao+Grimoire+Digital;%F0%9F%92%80+Invocando+c%C3%B3digo+das+trevas...;%F0%9F%95%AF%EF%B8%8F+Onde+bugs+vam+morrer+e+ressuscitar;%E2%9C%A6+A+morte+%C3%A9+apenas+o+come%C3%A7o+do+deploy)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 💀 O Grimoire — O Tomo do Necromante
 
-```yaml
-name: Nicolas
-role: Developer
-location: Brazil 🇧🇷
-status: Building in public 🚧
-currently_learning: [System Design, Cloud Architecture]
-fun_fact: "O café é meu compilador pessoal ☕"
+> *"Não temo o bug — eu o ressuscito, o estudo, e o domino."*
+
+Das profundezas do compilador, invoco sistemas à vida.  
+Com ossos de lógica e sangue de algoritmos, forjo o impossível — linha por linha, rito por rito.
+
+```
+Nome:      Nicolas
+Classe:    Necromante Dev / Full Stack
+Grimório:  Sempre sendo escrito...
+Nível:     Ascendendo das trevas ↑
+Foco:      Desenvolvimento Web & Sistemas
+Missão:    Dar vida ao que era inerte
+Código:    Cada função é um feitiço
+Status:    ☠️ Invocando... em constante evolução
 ```
 
 ---
 
-## ⚡ Stack
+## 🦴 Arsenal das Trevas — Feitiços Conhecidos
+
+### 🌑 Front-End
+
+[![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=c0c0c0)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=c0c0c0)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=c0c0c0)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=c0c0c0)](https://typescriptlang.org)
+[![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=c0c0c0)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=c0c0c0)](https://nextjs.org)
+
+### 🩸 Back-End & Dados
+
+[![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=c0c0c0)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c0c0c0)](https://python.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=c0c0c0)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=c0c0c0)](https://mysql.com)
+
+### 🕯️ Ferramentas & Rituais
+
+[![Git](https://img.shields.io/badge/GIT-1a1a1a?style=for-the-badge&logo=git&logoColor=c0c0c0)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=c0c0c0)](https://github.com)
+[![VSCode](https://img.shields.io/badge/VSCode-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=c0c0c0)](https://code.visualstudio.com)
+[![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=c0c0c0)](https://figma.com)
+[![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c0c0c0)](https://docker.com)
+[![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=c0c0c0)](https://postman.com)
+
+---
+
+## 💀 Rituais Recentes — Atividade Sombria
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasfsz&bg_color=000000&color=888888&line=c0c0c0&point=ffffff&area=true&area_color=333333&hide_border=true)](https://github.com/nicolasfsz)
+
+---
+
+## 🕯️ Pergaminhos do Necromante — Estatísticas
 
 <div align="center">
 
-**Frontend**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasfsz&show_icons=true&theme=dark&hide_border=true&title_color=c0c0c0&icon_color=888888&bg_color=000000&text_color=c0c0c0&include_all_commits=true&count_private=true"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfsz&layout=compact&theme=dark&hide_border=true&title_color=c0c0c0&bg_color=000000&text_color=c0c0c0"/>
 
-**Backend**
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-**Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Streak](https://streak-stats.demolab.com?user=nicolasfsz&theme=dark&hide_border=true&background=000000&ring=c0c0c0&fire=888888&currStreakLabel=c0c0c0&sideLabels=888888&dates=666666)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌑 Pacto das Sombras — Contato
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasfsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=FFFFFF"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c0c0c0)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c0c0c0)](mailto:SEU_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=c0c0c0)](https://instagram.com/SEU_INSTAGRAM)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nicolasfsz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFF7&fire=FF6B6B&currStreakLabel=00FFF7)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nicolasfsz&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Profile Views](https://komarev.com/ghpvc/?username=nicolasfsz&color=000000&style=for-the-badge&label=ALMAS+INVOCADAS)](https://github.com/nicolasfsz)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+```
+  ☠️          🕯️          💀          🕯️          ☠️
+    "A morte de um bug é o nascimento de um sistema"
+  🕯️          💀          🕯️          💀          🕯️
+```
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasfsz&theme=react-dark&hide_border=true&area=true&color=00FFF7&line=00FFF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nicolasfsz&color=00FFF7&style=for-the-badge&label=PROFILE+VIEWS)
-
-**"Code is poetry written for machines, but read by humans."**
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,000000,1a1a1a,000000&height=120&section=footer&animation=fadeIn)](https://github.com/nicolasfsz)
 
 </div>
