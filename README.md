@@ -1,7 +1,14 @@
-
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&text=Nicolas&fontsize=72&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20Brazil&descAlign=50&descAlignY=78&descColor=8b949e)](https://github.com/nicolasfsz)
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header)](https://github.com/nicolasfsz)
+
+<h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sport_Club_Corinthians_Paulista_logo.svg/60px-Sport_Club_Corinthians_Paulista_logo.svg.png" height="48" align="center"/>
+  &nbsp; Nicolas &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sport_Club_Corinthians_Paulista_logo.svg/60px-Sport_Club_Corinthians_Paulista_logo.svg.png" height="48" align="center"/>
+</h1>
+
+<p><sub>Full Stack Developer — Brazil</sub></p>
 
 </div>
 
@@ -83,15 +90,6 @@ const nicolas = {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasfsz&bg_color=0d1117&color=8b949e&line=e4e6ea&point=ffffff&area=true&area_color=21262d&hide_border=true)](https://github.com/nicolasfsz)
 
 ---
-
-## Network
-
-<div align="center">
-
-[![xToguia](https://github-readme-stats.vercel.app/api?username=xToguia&show_icons=true&hide_border=true&title_color=e4e6ea&icon_color=8b949e&bg_color=0d1117&text_color=8b949e)](https://github.com/xToguia)
-[![Vieira16](https://github-readme-stats.vercel.app/api?username=Vieira16&show_icons=true&hide_border=true&title_color=e4e6ea&icon_color=8b949e&bg_color=0d1117&text_color=8b949e)](https://github.com/Vieira16)
-
-</div>
 
 ---
 
