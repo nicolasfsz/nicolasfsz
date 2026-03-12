@@ -3,7 +3,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header)](https://github.com/nicolasfsz)
 
 <h1>
-  <img src="./corinthians.png" height="48" align="center"/>
+  
   &nbsp; Nicolas &nbsp;
   <img src="./corinthians.png" height="48" align="center"/>
 </h1>
