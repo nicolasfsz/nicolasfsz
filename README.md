@@ -3,9 +3,9 @@
 [![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header)](https://github.com/nicolasfsz)
 
 <h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sport_Club_Corinthians_Paulista_logo.svg/60px-Sport_Club_Corinthians_Paulista_logo.svg.png" height="48" align="center"/>
+  <img src="./corinthians.png" height="48" align="center"/>
   &nbsp; Nicolas &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sport_Club_Corinthians_Paulista_logo.svg/60px-Sport_Club_Corinthians_Paulista_logo.svg.png" height="48" align="center"/>
+  <img src="./corinthians.png" height="48" align="center"/>
 </h1>
 
 <p><sub>Full Stack Developer — Brazil</sub></p>
@@ -90,6 +90,7 @@ const nicolas = {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasfsz&bg_color=0d1117&color=8b949e&line=e4e6ea&point=ffffff&area=true&area_color=21262d&hide_border=true)](https://github.com/nicolasfsz)
 
 ---
+
 
 ---
 
