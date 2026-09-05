@@ -4,8 +4,8 @@
 
 <h1>
   
-  &nbsp; Nicolas &nbsp;
-  <img src="./corinthians.png" height="48" align="center"/>
+  &nbsp; Nicolas de Souza &nbsp;
+  
 </h1>
 
 <p><sub>Full Stack Developer — Brazil</sub></p>
